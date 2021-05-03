@@ -1,0 +1,6 @@
+framework module Pods_0503_completionBlock {
+  umbrella header "Pods-0503_completionBlock-umbrella.h"
+
+  export *
+  module * { export * }
+}
